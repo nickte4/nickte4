@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nick-Lorenz Topacio</h1>
-<h3 align="center">A current junior studying Computer Science at The Ohio State University</h3>
+<h1 align="center">👋 Hi, I'm Nick-Lorenz Topacio 👋</h1>
 
+- 📚 Junior studying Computer Science @ The Ohio State University
+  
+- 💻 Icoming SWE Intern @ **JPMorgan Chase**
+  
+- 💡 Interested in full-stack web development, K-pop dances, and D&D
+  
 - 📫 How to reach me **nicklorenz.topacio@gmail.com**
-
-- ⚡ Fun fact **I love doing K-pop dances and D&D!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
