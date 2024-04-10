@@ -9,8 +9,6 @@
 - 💻 Icoming SWE Intern @ **JPMorgan Chase**
   
 - 💡 Interested in full-stack web development, K-pop dances, and D&D
-  
-- 📫 Reach Me @ **nicklorenz.topacio@gmail.com**
 
 <h1 align="center">💫 Languages 💫</h1>
 
@@ -26,7 +24,7 @@
 <h1 align="center">💫 Frameworks/Tools 💫</h1>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-Express
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -34,6 +32,11 @@ Express
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+<h1 align="center">✉️ Contact Me ✉️</h1>
+📫 **nicklorenz.topacio@gmail.com**
+👤 **https://www.linkedin.com/in/nick-lorenz-topacio/**
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickte4&show_icons=true&locale=en" alt="nickte4" /></p>
