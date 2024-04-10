@@ -6,7 +6,7 @@
 
 - 📚 Junior studying Computer Science @ The Ohio State University
   
-- 💻 Icoming SWE Intern @ **JPMorgan Chase**
+- 💻 Incoming SWE Intern @ **JPMorgan Chase**
   
 - 💡 Interested in full-stack web development, K-pop dances, and D&D
 
@@ -37,9 +37,10 @@
 
 
 <h1 align="center">✉️ Contact Me ✉️</h1>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nicklorenz.topacio@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-lorenz-topacio/)
+<p align="center">
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nicklorenz.topacio@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-lorenz-topacio/)
+</p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickte4&show_icons=true&locale=en" alt="nickte4" /></p>
