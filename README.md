@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/73/4a/17/734a1733c544c50687c82d8799dc3c35.jpg" alt="banner">
+  <img src="https://i.pinimg.com/originals/87/25/52/872552816e6380d7d003fac33dcab052.jpg" alt="banner">
 </p>
+
 
 <h1 align="center">👋 Hi, I'm Nick-Lorenz Topacio</h1>
 
