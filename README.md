@@ -10,6 +10,7 @@
   
 - 💡 Interested in full-stack web development, K-pop dances, and D&D
 
+
 <h1 align="center">💫 Languages 💫</h1>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -20,6 +21,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 <h1 align="center">💫 Frameworks/Tools 💫</h1>
 
@@ -33,10 +35,11 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<h1 align="center">✉️ Contact Me ✉️</h1>
-📫 **nicklorenz.topacio@gmail.com**
-👤 **https://www.linkedin.com/in/nick-lorenz-topacio/**
 
+<h1 align="center">✉️ Contact Me ✉️</h1>
+
+- 📫 **nicklorenz.topacio@gmail.com**
+- 👤 **https://www.linkedin.com/in/nick-lorenz-topacio/**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickte4&show_icons=true&locale=en" alt="nickte4" /></p>
