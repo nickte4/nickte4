@@ -1,4 +1,4 @@
-<img href="https://i.pinimg.com/originals/73/4a/17/734a1733c544c50687c82d8799dc3c35.jpg"></img>
+![Banner](https://i.pinimg.com/originals/73/4a/17/734a1733c544c50687c82d8799dc3c35.jpg)
 
 <h1 align="center">👋 Hi, I'm Nick-Lorenz Topacio 👋</h1>
 
